@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h1>Tôi có id là : ${alien.aid}</h1>
+    <h2>Tên tôi là : ${alien.aname}</h2>
 </body>
 </html>
